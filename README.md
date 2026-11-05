@@ -1,5 +1,3 @@
-# Japanese Version of the Justice Sensitivity Inventory (JSI-J)/公正感受性尺度日本語版
-
 ターン他（2019）において公正感受性尺度日本語版を開発した際に実際に使用した導入文、質問文、回答選択肢を示す資料を公開するためのリポジトリです。
 
 This repository provides the instructions and response options used in the development and validation of the Japanese version of the Justice Sensitivity Inventory (JSI-J; Tham et al., 2019).
